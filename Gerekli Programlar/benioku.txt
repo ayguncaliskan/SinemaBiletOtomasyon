@@ -1,0 +1,2 @@
+1-sql server express 2017
+2-Sql Server management studio

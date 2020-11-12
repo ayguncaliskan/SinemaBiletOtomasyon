@@ -1,0 +1,233 @@
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmFilmEkle.resources
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSalonEkle.resources
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSeansEkle.resources
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSatisListeleme.resources
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSeansListele.resources
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmFilmİslemleri.resources
+C:\Users\aygün\source\repos\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSalonİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmFilmEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmFilmİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSalonEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSalonİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSatisListeleme.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSeansListele.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.film.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmSeansEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.UserControl1.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmBilet.resources
+C:\Users\ORHANÖZBEK\Desktop\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.anasayfa.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.bilet.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.satisListeleme.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansListele.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.ekleme.resources
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+C:\Users\ORHANÖZBEK\Desktop\orhan\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.biletSil.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.anasayfa.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.bilet.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.biletSil.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.ekleme.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmEkle.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmİslemleri.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonEkle.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonİslemleri.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.satisListeleme.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansEkle.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansListele.resources
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+D:\İndirilenler\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.anasayfa.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.bilet.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.ekleme.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.satisListeleme.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansListele.resources
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\aygün\supreme\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.aa1.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.aa1.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.anasayfa.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.bilet.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.ekleme.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmEkle.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmİslemleri.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonEkle.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonİslemleri.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.satisListeleme.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansEkle.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansListele.resources
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+D:\İndirilenler\enKararlıSürüm\projeyeni\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.aa1.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.anasayfa.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.bilet.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.ekleme.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmEkle.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmİslemleri.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonEkle.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonİslemleri.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.satisListeleme.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansEkle.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansListele.resources
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+C:\Users\aygün\Desktop\Sinema bilet Proje\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.aa1.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.anasayfa.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.bilet.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.ekleme.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.satisListeleme.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansListele.resources
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\asdasdd\24.05.2020\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.anasayfa.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.bilet.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.ekleme.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonİslemleri.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.satisListeleme.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansEkle.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansListele.resources
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+C:\Users\ORHANÖZBEK\Desktop\26.05.2020\24.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.anasayfa.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.bilet.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.ekleme.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmEkle.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmİslemleri.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonEkle.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonİslemleri.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.satisListeleme.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansEkle.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansListele.resources
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+D:\İndirilenler\26.05.2020\26.05.2020\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.exe
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\bin\Debug\SinemaBileti.pdb
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csprojAssemblyReference.cache
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.anasayfa.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.bilet.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.ekleme.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmEkle.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.filmİslemleri.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.FrmAnasayfa.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.GirisEkranı.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.Properties.Resources.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonEkle.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.salonİslemleri.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.satisListeleme.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansEkle.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.seansListele.resources
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.GenerateResource.cache
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.exe
+C:\Users\Aygun\Downloads\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\181307012_AygünÇalışkan_18130702_OrhanÖzbek_181307022_YigitYanık\SinemaBileti\SinemaBileti\obj\Debug\SinemaBileti.pdb
