@@ -1,0 +1,7 @@
+Uygulamayı nasıl çalıştırabilirim?
+1-Öncelikle gerekli programlar klasöründeki programları kurunuz.
+2-Sql klasöründeki veritabanını sql servere import ediniz.
+3-Sql server managament studio'ya girip sunucu isminize sağ tıklayıp properties kısmında sunucunuzun tam adını kopyalayın.
+4-Programı SinemaBileti klasöründen açın projedeki sqlconnection kısımlarını kendi sunucu adınızla değiştirin.
+5-Programı çalıştırın,Kullanıcı adı 3 farklı (aygün,yigit,orhan) şifre aynı(12345) kullanarak programa giriş yapabilirsiniz.
+not:Film afişleri gözükmeyecektir.Dosya yolunu kendi bilgisayarınızdakiyle değiştiriniz.
